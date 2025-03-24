@@ -1,0 +1,73 @@
+font: Source Sans Pro
+
+contact_info:
+  name: Kabo Letsogo
+  location: "Gaborone, Botswana"
+  email: kbl.kabo@gmail.com
+  phone: +267 77 932 553
+  linkedin: https://www.linkedin.com/in/kabo-letsogo/
+
+sections:
+  - name: Summary
+    type: text
+    content: "Budding statistician with "
+
+  - name: Professional Qualifications
+    type: bulleted-list
+    content:
+      - "Proficient in developing scalable software and APIs using industry-leading technologies."
+      - "Experienced in creating and optimizing CI/CD pipelines for efficient deployments."
+      - "Certified Cloud Architect across multiple platforms, including AWS, Azure, and Google Cloud."
+      - "Extensive knowledge of infrastructure automation using Ansible, Terraform, and Azure ARM."
+
+  - name: Key Skills
+    type: inline-list
+    content:
+      - "Python for Data Science, Machine Learning & Generative AI"
+      - "Excel"
+      - "Microsoft Office Suite"
+      - "R"
+      - "Docker"
+      - "Git"
+
+  - name: Experience
+    content:
+      - company: "Botswana Development Corporation"
+        title: "Investments Intern"
+        dates: "May 2024 – August 2024"
+        description:
+          - "Developed and maintained applications to address business needs using modern programming practices."
+          - "Optimized performance by identifying and resolving code inefficiencies."
+          - "Created ETL flows with robust data validation, ensuring data integrity."
+          - "Provided mentorship and technical guidance to junior engineers."
+
+      - company: "S&T Recoveries"
+        title: "Junior Data Scientist"
+        dates: "May 2023 – Aug 2023"
+        description:
+          - "Enhanced application performance through efficient automation using Ansible and Terraform."
+          - "Automated CI/CD pipelines, reducing deployment times and minimizing manual interventions."
+          - "Collaborated with cross-functional teams to support cloud migration strategies."
+
+
+  - name: Education
+    content:
+      - degree: "BSc in Statistics"
+        school: "Botswana International University of Science and Technology"
+        year: "August 2021 - June 2025"
+        Key Knowledge and Competencies Gained:
+        - Competency 1
+        - 2
+        - 3
+        
+      - diploma: "International Baccalaureate Diploma"
+        school: "UWC Waterford Kamhlaba"
+        year: "2019 - 2020"
+
+ # - name: Certifications
+ #   type: bulleted-list
+ #   content:
+ #     - "Certified Kubernetes Administrator (CKA) - (2022)"
+ #     - "AWS Certified Solutions Architect – Associate, Amazon Web Services (2021)"
+ #     - "Microsoft Certified: Azure Solutions Architect Expert (2020)"
+ #     - "Google Cloud Professional Cloud Architect (2019)"
