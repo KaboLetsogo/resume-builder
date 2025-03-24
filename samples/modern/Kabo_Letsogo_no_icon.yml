@@ -55,14 +55,19 @@ sections:
       - degree: "BSc in Statistics"
         school: "Botswana International University of Science and Technology"
         year: "August 2021 - June 2025"
-        Key Knowledge and Competencies Gained:
+        Description:
         - Competency 1
         - 2
         - 3
         
-      - diploma: "International Baccalaureate Diploma"
+      - degree: "International Baccalaureate Diploma"
         school: "UWC Waterford Kamhlaba"
         year: "2019 - 2020"
+        content:
+        - Competency 1
+        - 2
+        - 3
+        
 
  # - name: Certifications
  #   type: bulleted-list
