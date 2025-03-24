@@ -69,16 +69,7 @@ sections:
           - "Practiced applying statistical concepts and tools to real world problems."
           - "Worked with data from various industries to hone data analysis skills in R ."
           - "Conducting scientific research then creating reports and presentations geared to non technical stakeholders."
-  - name: ‎ Education
-    content:
-      - company: "BSc in Statistics"
-        title: "Botswana International University of Science and Technology"
-        dates: "August 2021 - June 2025"
-        description:
-          - "Practiced applying statistical concepts and tools to real world problems."
-          - "Worked with data from various industries to hone data analysis skills in R ."
-          - "Conducting scientific research then creating reports and presentations geared to non technical stakeholders."
-        
+       
         
 #      - degree: "International Baccalaureate Diploma"
 #        school: "UWC Waterford Kamhlaba"
